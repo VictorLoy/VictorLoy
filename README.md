@@ -21,12 +21,14 @@
 - [Project 3](link): Brief description of the project.
 -->
 
+<!--
+
 ### 🌟 GitHub Stats
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
 ### 🔝 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact)
-
+ -->
 ### 📫 Let's Connect!
 - LinkedIn: [Victor Loyinmi](https://www.linkedin.com/in/victorloy/)
 <!-- - Email: john.doe@example.com -->
